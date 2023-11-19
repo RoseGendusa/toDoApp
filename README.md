@@ -1,4 +1,5 @@
-# Todo CRUD App
+# Todo MERN
+# CRUD App
 
 This project is a full-stack Todo CRUD (Create, Read, Update, Delete) application built using React.js for the frontend, Node.js with Express for the backend, and MongoDB as the database. Additionally, it includes Dockerization using Docker and Docker Compose.
 
